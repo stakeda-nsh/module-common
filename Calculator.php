@@ -1,6 +1,6 @@
 <?php
 
-namespace ModuleCommon\CommonModules;
+namespace ModuleCommon;
 
 class Calculator
 {
